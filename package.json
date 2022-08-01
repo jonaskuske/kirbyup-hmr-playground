@@ -1,0 +1,11 @@
+{
+  "name": "kirbyup-hmr-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S localhost:8080 kirby/router.php"
+  },
+  "author": "",
+  "license": "ISC"
+}

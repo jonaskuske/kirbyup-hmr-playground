@@ -1,0 +1,1 @@
+<?= markdown(F::read(__DIR__ . '/../../README.md')) ?>

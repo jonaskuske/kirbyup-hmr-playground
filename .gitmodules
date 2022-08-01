@@ -1,0 +1,10 @@
+[submodule "kirby"]
+	path = kirby
+	url = https://github.com/getkirby/kirby
+[submodule "kirbyup"]
+	path = kirbyup
+	url = https://github.com/johannschopplich/kirbyup
+[submodule "site/plugins/demo"]
+	path = site/plugins/demo
+	url = https://github.com/getkirby/pluginkit
+	branch = 4-panel
